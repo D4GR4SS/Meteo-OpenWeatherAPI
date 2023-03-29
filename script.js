@@ -6,7 +6,7 @@ function getMeteo(e) {
   e.preventDefault();
 
   const city = search.value;
-  const apiKey = "4cfe2a3e71519f9a4de9c7ccf7ab1af6";
+  const apiKey = "";
   const lang = "it";
   const units = "metric";
 
